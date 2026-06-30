@@ -8,12 +8,14 @@ A small desktop toolbox (PySide6 / Qt) wrapping 22 PDF and image tools.
 
 ## What's in the box
 
-**Organize** — Merge · Split · Remove duplicate pages · Reorder · Delete pages · Rotate
-**Optimize & Secure** — Compress PDF · Password protect (AES-256) · Watermark · Page numbers · Watermark image · Compress image
-**Convert** — Extract images · PDF → images · Images → PDF · Extract text · HTML → PDF · Resize image · Convert image (JPG ↔ PNG ↔ WebP ↔ BMP) · Crop image
-**Create** — QR code generator · Color palette extractor
+- **Organize** — Merge, Split, Remove duplicate pages, Reorder, Delete pages, Rotate
+- **Optimize & Secure** — Compress PDF, Password protect (AES-256), Watermark, Page numbers, Watermark image, Compress image
+- **Convert** — Extract images, PDF to images, Images to PDF, Extract text, HTML to PDF, Resize image, Convert image (JPG - PNG - WebP - BMP), Crop image
+- **Create** — QR code generator, Color palette extractor
 
-Drag-and-drop files onto any tool, drag to reorder lists (Merge, Images → PDF), and add as many page-range boxes as you need (Split, Delete, Rotate, Reorder). Dark/light theme and English/Italian, both in Settings (⚙ top-right).
+Drag-and-drop files onto any tool, drag to reorder lists (Merge, Images to PDF), and add as many page-range boxes as you need (Split, Delete, Rotate, Reorder). 
+
+Dark/light theme and English/Italian, both in Settings.
 
 ## Just run it
 
